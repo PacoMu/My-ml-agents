@@ -33,6 +33,7 @@
 *.svd
 *.pdb
 *.sqlite
+*.exe
 
 # Unity3D generated meta files
 *.pidb.meta
